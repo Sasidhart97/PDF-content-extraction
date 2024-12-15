@@ -1,0 +1,8 @@
+Project category,Number of cases,Minimum days,Maximum days,Average days,Median days
+Energy,70,110,"5,032","1,415","1,159"
+Infrastructure,45,91,"3,456","1,250","1,127"
+Other,37,210,"3,648","1,531","1,511"
+Public lands,106,98,"6,942","1,744","1,486"
+,,Minimum,Maximum,Average,Median
+Total categories in days,–,91,"6,942","1,538","1,365"
+Total categories in years,–,0.2,19.0,4.2,3.7
