@@ -1,0 +1,30 @@
+4
+INTRODUCTION
+President Richard Nixon signed the National Environmental Policy Act (NEPA) into law in 1970,  
+institutionalizing environmental protection as a matter of national importance. The laws 
+initial decree was simple: federal agencies must consider the environmental impacts of their 
+decisions before taking action. In the decades following, agency responsibility ballooned. 
+In 1981, the Council on Environmental Quality contended that an environmental impact  
+statement (EIS) would take less than 12 months to complete. In 2022, it took about four years .4 
+These lengthy review processes delay infrastructure projects of all varieties, including power 
+lines and wildfire mitigation projects. 
+In the wake of the passage of the 2022 Inflation Reduction Act, members of Congress and 
+President Biden have expressed concern that NEPA will slow the decarbonization process. 
+Despite general consensus that NEPA needs to be reformed, Congress has struggled to reach  
+consensus on significant reforms.
+Of the many facets of permitting reform, NEPA litigation has become the most hotly contested 
+and the least understood. Researchers have published only a handful of studies capable of 
+informing evidence-based reform. Among those few, most narrowly assert that the burden of 
+NEPA litigation is not large enough to merit reform. Ruple and Race , for example, claim that the 
+burden is minimal because less than 1% of all federal civil litigation pertains to NEPA.5 Adelman 
+and Glicksman  similarly assert the burden is small because only a small share of environmental 
+review documents are litigated.6 While both illustrate that NEPA litigation is rare in the grand 
+scheme of federal responsibility, they conflate aggregate burden with the scale of an agencys 
+obligations.
+Agencies definitively struggle to keep up with their NEPA-related obligations. A complex,  
+quantitative study is not needed to identify that. Agency staff have made it clear since 1997 .7  
+The U.S. Forest Service, the agency that shoulders the greatest NEPA burden, provides a prime 
+example. By its own admission, excessive environmental reviews have prevented the Forest 
+Service from effectively managing forests, at one point consuming almost 40% of the agencys 
+budget .8 Such efforts are in no small part driven by fear of litigation. Forest managers habitually 
+prepare more complex environmental reviews in hopes of avoiding legal challenges.9 

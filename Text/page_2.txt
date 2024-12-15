@@ -1,0 +1,30 @@
+2
+EXECUTIVE SUMMARY
+Ongoing permitting reform debates in Washington, DC, have mostly orbited around the National 
+Environmental Policy Act (NEPA). A procedural environmental regulatory umbrella law, NEPA 
+creates significant and complex requirements for all major infrastructure projects and federal 
+activities affecting the environment. 
+Broadly, NEPA requires that federal agencies conduct environmental reviews of proposed activi -
+ties and their potential effects. For complex projects, agencies can either prepare an environmen -
+tal impact statement (EIS) or an environmental assessment (EA). Alternatively, simpler projects 
+can be afforded a categorical exclusion (CE) which fast-tracks the review process. After permits 
+are granted through these review mechanisms, they may be challenged in the judicial system. 
+The courts then have the authority to reaffirm, bolster, or otherwise improve the project plan to 
+prevent or limit environmental damage. Of course, lawsuits to challenge EISs, EAs, and CEs neces -
+sarily extend project timelines. Particularly in the wake of the Infrastructure Investment and Jobs 
+Act (2021), the Inflation Reduction Act (2022), and the CHIPS and Science Act (2022), federal policy -
+makers and policy advocates have drawn increased attention to the regulatory burden and delay 
+imposed by this judicial review.
+However, the NEPA litigation debate has suffered from a deficit of empirical evidence. Our analy -
+sis helps fill this knowledge gap, documenting and sorting hundreds of NEPA litigation cases to 
+assess trends, patterns, and impacts on various types of major infrastructure projects. 
+Breakthrough Institute analysts, in collaboration with legal experts at Holland & Knight, com -
+piled and analyzed 387 NEPA cases brought to the U.S. appellate court system over the 2013-2022 
+period and categorized them by project type, environmental review, length of judicial review, 
+federal agency, and plaintiff. Our results indicate that NEPA litigation overwhelmingly functions 
+as a form of delay, as most cases take years before courts ultimately rule in favor of the defending 
+federal agency.  
+As Congress deliberates reforms to NEPA, it is essential that policymakers recognize the degree 
+to which the legal status quo prioritizes procedure over outcomes. To enable more effective 
+environmental review, reforms should minimize the potential for extended, unproductive legal 
+battles while still promoting the fair assessment of environmental impacts.

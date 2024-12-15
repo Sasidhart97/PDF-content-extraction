@@ -1,0 +1,30 @@
+6
+Table 1: Environmental assessment and environmental impact statement appeal cases by category with time 
+to resolution, 20132022.
+Project category Number of cases Minimum days Maximum days Average days Median days
+Energy 70 110 5,032 1,415 1,159
+Infrastructure 45 91 3,456 1,250 1,127
+Other 37 210 3,648 1,531 1,511
+Public lands 106 98 6,942 1,744 1,486
+Minimum Maximum Average Median
+Total categories in days  91 6,942 1,538 1,365
+Total categories in years  0.2 19.0 4.2 3.7
+Note:  This table includes data only from the 258 cases contesting EAs and EISs, as data on CEs and other reviews is rarely 
+accessible. Some Records of Decision and Findings of No Significant Impact provided only the month and year of publication; 
+we coded those cases using the first day of the given month.
+Thus, the window for eligible challenges to environmental review could be shortened substan -
+tially without meaningfully affecting environmental outcomes.   
+Agencies fulfilled their responsibilities under NEPA with exceptional accuracy, regardless of  
+the level of review required.
+Table 2: Appeals and agency win-rates for all NEPA reviews by document type and total, 20132022.
+Document type Number of cases % of total cases Agency win-rate
+Categorical exclusion 19 4.9% 73.7%
+Environmental assessment 139 35.8% 79.1%
+Environmental impact statement 162 41.8% 79.6%
+NA 67 17.5% 82.1%
+Total 387 79.6%
+Note:  NA refers to cases in which a NEPA review was not conducted, but plaintiffs argue one should be.
+Overall, while there were slight differences in win-rates across document types, agencies prevailed 
+in about 80% of challenges filed against both EAs and EISs (Table 2). This finding is remarkable 
+because both the substance of and arguments brought against the two documents differ substan -
+tially across agencies and project types. 

@@ -1,0 +1,32 @@
+7
+An EA assesses if a proposed project will impact the environment. An EIS is generally conducted 
+once an EA has determined a project will impact the environment and evaluates how to min -
+imize that impact. By virtue of their complexity, EISs create more opportunities for litigation. 
+While challengers often argue that agencies erred in not elevating an EA to an EIS, theyre able 
+to argue that an EIS did not consider any number of alternative actions. Still, agencies prevail 
+in challenges to both EISs and EAs at the same rate, suggesting agency decision-making rarely 
+needs oversight when it comes to NEPA compliance. 
+Major national environmental NGOs instigated a disproportionate share of this litigation.
+Consistent with trends observed in the previous decade , NGOs in 2013-2022 accounted for a 
+sizable majority of NEPA-related appeals (72%), with state and local governments, individuals, 
+companies, and other stakeholders filing far lower shares of appealed cases (Table 3).13 However, 
+these nonprofit organizations lost appeals in 2013-2022 at a marginally higher rate than in  
+previous periods, with a 13% increase in losses compared to 2001 to 2005  and a 5% increase  
+compared to 2001 to 2015.14
+Despite their expertise and concentrated staff capacity, NGOs werent substantially more success -
+ful than other plaintiffs in their appeals. Plaintiffs won 16% of cases that did not involve NGOs, 
+a 7% lower success rate than those that did. This finding diverges from an earlier analysis  that 
+found environmental plaintiffs prevailed between 17% and 13% more often than other groups 
+in Circuit Courts.15
+Table 3: Appeals and success rates of all NEPA reviews by plaintiff type, 20132022.
+Plaintiff type Number of cases % of total cases % sole plaintiff Success rate
+NGO 279 72.1% 54.3% 22.2%
+Individual(s) 62 16.0% 5.2% 11.3%
+Local government 32 8.3% 4.9% 18.8%
+Tribal government 29 7.5% 3.1% 31.0%
+Company 23 5.9% 3.4% 8.7%
+Industry association 19 4.9% 0.8% 21.1%
+State(s) 15 3.9% 0.3% 20.0%
+Union 3 0.8% 0.0% 0.0%
+Church 1 0.3% 0.0% 100.0%
+All types 20.4%

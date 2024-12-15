@@ -1,0 +1,32 @@
+11
+Within the forest management category, plaintiffs challenged timber harvest and fuel manage -
+ment projects the most frequently (Table 7). Timber sales on public land have long generated 
+controversy, both inside and outside the context of NEPA. While the notion of timber harvest -
+ing often conjures images of profit-driven logging companies decimating pristine forests, land 
+management agencies can use harvests to improve wildlife habitat and reduce fire risk.26 In fact, 
+almost half of the contested timber harvesting projects in this dataset were also part of a fuel 
+management project. This finding underscores one of the most concerning challenges imposed 
+on land management agencies by NEPA: obstruction of wildfire mitigation efforts.
+Table 7: Types of forest management appeals, 20132022.
+Type Number of cases% of total forest  
+management cases
+Timber harvest 26 38.8%
+Fuel management 26 38.8%
+Roadsvehicle use 10 14.9%
+Salvage logging 5 7.5%
+Grazing 4 6.0%
+Note: Forest management cases are multifaceted and thus cannot be categorized by a single variable. This table shows the num -
+ber of cases that address various types, but each category is not mutually exclusive, so percentages total more than 100%. 
+Scientists and forest managers have made clear  that fuel reduction is the most effective way to 
+decrease wildfire risk.27 As the wildfire crisis has escalated in the United States, the need for fuel 
+reduction has only grown. Unfortunately, the Forest Service spends 3.6 to 4.7 years  on paperwork 
+before a fuel management project can start.28 NEPA allows plaintiffs to stall projects even further 
+with litigation, which can add over a year to the process.29 In this dataset, an average of three 
+years elapsed between an agencys issuing a permit for a fuel reduction project and the end of 
+litigation. Notably though, agencies won 93% of cases related to fuel reduction projects, 96% of 
+which were brought by NGOs.
+NEPA litigation added 3.9 years on average to energy project development.
+In this dataset, 29% of total NEPA appeals cases contested energy projects. The distribution of 
+contested projects shows a balance among challenges to projects involving fossil fuel infrastruc -
+ture (37%), clean energy production (33%), and fossil fuel extraction (22%) (Table 8). This balance 
+challenges the common narrative that only certain types of projects face legal opposition. 

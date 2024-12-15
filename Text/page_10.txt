@@ -1,0 +1,29 @@
+10
+Table 5: Appeals of public lands management reviews by type of project, 20132022.
+Public lands management project type Number of cases Agency win-rate% of  total land  
+management cases
+Forest management 66 78.8% 46.5%
+Species management 38 76.3% 26.8%
+Other 20 80.0% 14.1%
+Riverlake management 12 83.3% 8.5%
+Refuge management 6 100.0% 4.2%
+Total 142 79.6%
+In this dataset, forest management projects were most often the subject of appeals (Table 5), 
+constituting 47% of land management cases and 17% of cases overall. Just 10 organizations filed 
+67% of these cases (Table 6), underscoring that NEPA litigation often originates from activism 
+efforts advanced by a small number of NGOs. Collectively, this group of organizations won only 
+23% of their cases, while adding about 3.7 years on average to the process of implementing proj -
+ects on cases they lost.
+Table 6: Top 10 organizations that filed most forest management appeals, 20132022.
+Rank Plaintiff Number of cases% of total forest  
+management cases
+1 Alliance for the Wild Rockies 15 22.4%
+2 Cascadia Wildlands 12 17.9%
+3 Oregon Wild 10 14.9%
+4 Klamath-Siskiyou Wildlands Center 8 11.9%
+5 Center for Biological Diversity 8 11.9%
+6 Native Ecosystems Council 7 10.5%
+7 Conservation Congress 5 7.5%
+8 Greenpeace 4 6.0%
+9 Earth Island Institute 4 6.0%
+10 WildEarth Guardians 3 4.5%

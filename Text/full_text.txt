@@ -1,0 +1,506 @@
+NIKKI CHIAPPA, TED NORDHAUS, ALEX TREMBATH, AND ELIZABETH MCCARTHY
+in collaboration with Breakthrough Institute Senior Fellow Jennifer Hernandez1
+UNDERSTANDING  
+NEPA LITIGATIONA SYSTEMATIC REVIEW 
+OF RECENT NEPA-RELATED 
+APPELLATE COURT CASES
+ ---------- NEW PAGE ---------- 
+2
+EXECUTIVE SUMMARY
+Ongoing permitting reform debates in Washington, DC, have mostly orbited around the National 
+Environmental Policy Act (NEPA). A procedural environmental regulatory umbrella law, NEPA 
+creates significant and complex requirements for all major infrastructure projects and federal 
+activities affecting the environment. 
+Broadly, NEPA requires that federal agencies conduct environmental reviews of proposed activi -
+ties and their potential effects. For complex projects, agencies can either prepare an environmen -
+tal impact statement (EIS) or an environmental assessment (EA). Alternatively, simpler projects 
+can be afforded a categorical exclusion (CE) which fast-tracks the review process. After permits 
+are granted through these review mechanisms, they may be challenged in the judicial system. 
+The courts then have the authority to reaffirm, bolster, or otherwise improve the project plan to 
+prevent or limit environmental damage. Of course, lawsuits to challenge EISs, EAs, and CEs neces -
+sarily extend project timelines. Particularly in the wake of the Infrastructure Investment and Jobs 
+Act (2021), the Inflation Reduction Act (2022), and the CHIPS and Science Act (2022), federal policy -
+makers and policy advocates have drawn increased attention to the regulatory burden and delay 
+imposed by this judicial review.
+However, the NEPA litigation debate has suffered from a deficit of empirical evidence. Our analy -
+sis helps fill this knowledge gap, documenting and sorting hundreds of NEPA litigation cases to 
+assess trends, patterns, and impacts on various types of major infrastructure projects. 
+Breakthrough Institute analysts, in collaboration with legal experts at Holland & Knight, com -
+piled and analyzed 387 NEPA cases brought to the U.S. appellate court system over the 2013-2022 
+period and categorized them by project type, environmental review, length of judicial review, 
+federal agency, and plaintiff. Our results indicate that NEPA litigation overwhelmingly functions 
+as a form of delay, as most cases take years before courts ultimately rule in favor of the defending 
+federal agency.  
+As Congress deliberates reforms to NEPA, it is essential that policymakers recognize the degree 
+to which the legal status quo prioritizes procedure over outcomes. To enable more effective 
+environmental review, reforms should minimize the potential for extended, unproductive legal 
+battles while still promoting the fair assessment of environmental impacts.
+ ---------- NEW PAGE ---------- 
+3
+Key findings:  
+  Between 2013 and 2022, circuit courts heard approximately 39 NEPA appeals cases per year,  
+a 56% increase over the rate from 2001 to 2015 .2
+  Agencies won about 80% of the 2013-2022 appeals cases, 11% more per year than from 2001 
+to 2004 , 8% more than from 2001 to 2008 , and 4% less than from 2009 to 2015 .3 The rate at 
+which agencies reviews are upheld is high, meaning these environmental reviews are seldom 
+changed as a result of litigation.
+  On average, 4.2 years elapsed between publication of an environmental impact statement  
+or environmental assessment and conclusion of the corresponding legal challenge at the 
+appellate level. Of these appealed cases, 84% were closed less than six years after the contested 
+permit was published, and 39% were closed in less than three.
+  Among the challenges, 42% contested environmental impact statements, and 36% contested 
+environmental assessments. Agencies won about 80% of challenges to both.
+  NGOs instigated 72% of the total challenges. Of those, just 10 organizations initiated 35% and 
+had a success rate of just 26%, merely 6% higher than the average for all types of plaintiffs.
+  Only 2.8% of NEPA litigations pertained to agency assessment of environmental justice issues.
+  Public lands management projects were the most common subject of litigation (37%), the 
+greatest share of which (47%) challenged forest management projects. Just 10 groups filed 67% 
+of the challenges to forest management projects and collectively won only 23% of those cases, 
+adding 3.7 years on average to the process of implementing the 77% of projects on cases  
+they lost.
+  Energy projects were the second most common subject of litigation (29%). Litigation delayed 
+fossil fuel and clean energy project implementation by 3.9 years on average, despite the fact 
+that agencies won 71% of those challenges. NGOs filed 74% of energy cases, with just 10 organi -
+zations responsible for 48% of challenges. 
+ ---------- NEW PAGE ---------- 
+4
+INTRODUCTION
+President Richard Nixon signed the National Environmental Policy Act (NEPA) into law in 1970,  
+institutionalizing environmental protection as a matter of national importance. The laws 
+initial decree was simple: federal agencies must consider the environmental impacts of their 
+decisions before taking action. In the decades following, agency responsibility ballooned. 
+In 1981, the Council on Environmental Quality contended that an environmental impact  
+statement (EIS) would take less than 12 months to complete. In 2022, it took about four years .4 
+These lengthy review processes delay infrastructure projects of all varieties, including power 
+lines and wildfire mitigation projects. 
+In the wake of the passage of the 2022 Inflation Reduction Act, members of Congress and 
+President Biden have expressed concern that NEPA will slow the decarbonization process. 
+Despite general consensus that NEPA needs to be reformed, Congress has struggled to reach  
+consensus on significant reforms.
+Of the many facets of permitting reform, NEPA litigation has become the most hotly contested 
+and the least understood. Researchers have published only a handful of studies capable of 
+informing evidence-based reform. Among those few, most narrowly assert that the burden of 
+NEPA litigation is not large enough to merit reform. Ruple and Race , for example, claim that the 
+burden is minimal because less than 1% of all federal civil litigation pertains to NEPA.5 Adelman 
+and Glicksman  similarly assert the burden is small because only a small share of environmental 
+review documents are litigated.6 While both illustrate that NEPA litigation is rare in the grand 
+scheme of federal responsibility, they conflate aggregate burden with the scale of an agencys 
+obligations.
+Agencies definitively struggle to keep up with their NEPA-related obligations. A complex,  
+quantitative study is not needed to identify that. Agency staff have made it clear since 1997 .7  
+The U.S. Forest Service, the agency that shoulders the greatest NEPA burden, provides a prime 
+example. By its own admission, excessive environmental reviews have prevented the Forest 
+Service from effectively managing forests, at one point consuming almost 40% of the agencys 
+budget .8 Such efforts are in no small part driven by fear of litigation. Forest managers habitually 
+prepare more complex environmental reviews in hopes of avoiding legal challenges.9 
+ ---------- NEW PAGE ---------- 
+5
+Understanding that NEPA and the threat of litigation impose a sizable burden on agencies, this 
+analysis shifts the question of burden away from scale and instead toward outcomes. Our study 
+analyzed 387 NEPA cases filed at District Court and then appealed to a Circuit Courtin effect, 
+the cases most burdened by NEPA litigationbetween 2013 and 2022. 
+Our findings suggest that NEPA litigation at this level rarely changes environmental outcomes 
+or protects environmental justice communities. Instead, judicial review of NEPA decisions largely 
+serves as an advocacy tool for a small number of well-organized nonprofits to stall projects that 
+do not align with their values.
+The burden of NEPA litigation has increased while its impact on environmental outcomes  
+has decreased.
+Between 2013 and 2022, Circuit Courts heard approximately 39 NEPA appeals cases per year, a 
+56% increase over the average annual rate from 2001 to 2015 .10 By contrast, the number of final 
+environmental impact statements (FEISs) in the same time periods dropped. Between 2001 and 
+2015, 210 FEISs were published on average per year in the EPA's EIS database , while 132 were pub -
+lished between 2013 and 2022.11 While EISs represent a small share of environmental documents 
+produced, they attracted the most litigation, comprising 42% of the challenges in our dataset. 
+Thus, both the sheer number of legal challenges filed and the rate at which EISs faced challenges 
+at the appellate level increased in the most recent decade.
+Agencies won about 80% of the appeals from 2013 to 2022, 11% more per year than from 2001 to 
+2004 , 8% more than from 2001 to 2008,  and 4% less than from 2009 to 2015 .12 The rate at which  
+agencies reviews are upheld is high, meaning these environmental reviews are seldom changed 
+as a result of litigation.
+On average, 4.2 years elapsed between when an environmental review was published and 
+a legal challenge at the appellate level was settled.
+Under current procedure, challengers can contest NEPA-related decisions for up to six years 
+following publication under the Administrative Procedures Act. Appeals, however, are not time-
+bound in the same way. Still, 84% of appealed cases in the last decade were closed less than six 
+years after the contested permit was published, and 39% were closed in less than three years. 
+Length of time to resolution varied by project category (Table 1). 
+ ---------- NEW PAGE ---------- 
+6
+Table 1: Environmental assessment and environmental impact statement appeal cases by category with time 
+to resolution, 20132022.
+Project category Number of cases Minimum days Maximum days Average days Median days
+Energy 70 110 5,032 1,415 1,159
+Infrastructure 45 91 3,456 1,250 1,127
+Other 37 210 3,648 1,531 1,511
+Public lands 106 98 6,942 1,744 1,486
+Minimum Maximum Average Median
+Total categories in days  91 6,942 1,538 1,365
+Total categories in years  0.2 19.0 4.2 3.7
+Note:  This table includes data only from the 258 cases contesting EAs and EISs, as data on CEs and other reviews is rarely 
+accessible. Some Records of Decision and Findings of No Significant Impact provided only the month and year of publication; 
+we coded those cases using the first day of the given month.
+Thus, the window for eligible challenges to environmental review could be shortened substan -
+tially without meaningfully affecting environmental outcomes.   
+Agencies fulfilled their responsibilities under NEPA with exceptional accuracy, regardless of  
+the level of review required.
+Table 2: Appeals and agency win-rates for all NEPA reviews by document type and total, 20132022.
+Document type Number of cases % of total cases Agency win-rate
+Categorical exclusion 19 4.9% 73.7%
+Environmental assessment 139 35.8% 79.1%
+Environmental impact statement 162 41.8% 79.6%
+NA 67 17.5% 82.1%
+Total 387 79.6%
+Note:  NA refers to cases in which a NEPA review was not conducted, but plaintiffs argue one should be.
+Overall, while there were slight differences in win-rates across document types, agencies prevailed 
+in about 80% of challenges filed against both EAs and EISs (Table 2). This finding is remarkable 
+because both the substance of and arguments brought against the two documents differ substan -
+tially across agencies and project types. 
+ ---------- NEW PAGE ---------- 
+7
+An EA assesses if a proposed project will impact the environment. An EIS is generally conducted 
+once an EA has determined a project will impact the environment and evaluates how to min -
+imize that impact. By virtue of their complexity, EISs create more opportunities for litigation. 
+While challengers often argue that agencies erred in not elevating an EA to an EIS, theyre able 
+to argue that an EIS did not consider any number of alternative actions. Still, agencies prevail 
+in challenges to both EISs and EAs at the same rate, suggesting agency decision-making rarely 
+needs oversight when it comes to NEPA compliance. 
+Major national environmental NGOs instigated a disproportionate share of this litigation.
+Consistent with trends observed in the previous decade , NGOs in 2013-2022 accounted for a 
+sizable majority of NEPA-related appeals (72%), with state and local governments, individuals, 
+companies, and other stakeholders filing far lower shares of appealed cases (Table 3).13 However, 
+these nonprofit organizations lost appeals in 2013-2022 at a marginally higher rate than in  
+previous periods, with a 13% increase in losses compared to 2001 to 2005  and a 5% increase  
+compared to 2001 to 2015.14
+Despite their expertise and concentrated staff capacity, NGOs werent substantially more success -
+ful than other plaintiffs in their appeals. Plaintiffs won 16% of cases that did not involve NGOs, 
+a 7% lower success rate than those that did. This finding diverges from an earlier analysis  that 
+found environmental plaintiffs prevailed between 17% and 13% more often than other groups 
+in Circuit Courts.15
+Table 3: Appeals and success rates of all NEPA reviews by plaintiff type, 20132022.
+Plaintiff type Number of cases % of total cases % sole plaintiff Success rate
+NGO 279 72.1% 54.3% 22.2%
+Individual(s) 62 16.0% 5.2% 11.3%
+Local government 32 8.3% 4.9% 18.8%
+Tribal government 29 7.5% 3.1% 31.0%
+Company 23 5.9% 3.4% 8.7%
+Industry association 19 4.9% 0.8% 21.1%
+State(s) 15 3.9% 0.3% 20.0%
+Union 3 0.8% 0.0% 0.0%
+Church 1 0.3% 0.0% 100.0%
+All types 20.4%
+ ---------- NEW PAGE ---------- 
+8
+Even the most well-resourced NGOs rarely won cases when challenging NEPA decisions.  
+Just 10 NGOs initiated 35% of the total challenges (Table 4), and they had a success rate of just 
+26%, merely 6% higher than the average success rate for all types of plaintiffs. Thats less  
+than in prior decades , when prominent environmental groups won 35% of their appeals.16
+Yet, these organizations pride themselves on being experts in environmental litigation.  
+The Sierra Club advertises itself as having perfected the art of campaign litigation and  
+lawyer-organizing.17 The Center for Biological Diversity claims that it melds  cutting-edge  
+legal strategies with grassroots organizing .18 The Natural Resources Defense Council helped 
+start the environmental legal movement  and maintains significant litigation activities today.19 
+These and other groups make clear that their NEPA litigation is not solely utilized to improve 
+environmental outcomes associated with infrastructure projects, but to obstruct and delay proj -
+ects themselves, often for the purpose of preventing the project from ever moving forward at all.
+Table 4:  Appeals cases brought by top 10 NGO plaintiffs, 20132022.
+Plaintiff-appellants Number of cases % of all NEPA cases
+Sierra Club and local chapters 55 14.2%
+Center for Biological Diversity 30 7.8%
+WildEarth Guardians 16 4.1%
+Natural Resources Defense Council 15 3.9%
+Alliance for the Wild Rockies 15 3.9%
+Cascadia Wildlands 13 3.4%
+Oregon Wild 12 3.1%
+Defenders of Wildlife 10 2.6%
+The Wilderness Society 9 2.3%
+Western Watersheds Project 8 2.1%
+Energy and infrastructure projects in particular are more likely to face cancellation if challenged 
+under NEPA .20 While project cancellation is not the intent of the statute, litigation represents a 
+creative and effective strategy to stop projects plaintiffs believe will do substantial harm. But 
+these groups frequently contest projects that serve national policy objectives set by elected offi -
+cials, calling the purpose and societal benefit of judicial review in its current form into question.
+ ---------- NEW PAGE ---------- 
+9
+NEPA litigation has rarely focused on environmental justice.
+Environmental nonprofits and decision-makers  alike have vocally highlighted the perceived 
+threat NEPA reform would impose on marginalized communities.21 The Center for Biological 
+Diversity even accused a member of Congress of  trying to silence communities of color and 
+poor communities in places like Louisianas Cancer Alley, 22 after proposing a bill that would 
+reduce the amount of time in which an environmental review can be challenged. However,  
+a meager 2.8% of challenges in our 2013-2022 dataset related to environmental justice issues.  
+In fact, NEPA has never played a large role  in protecting environmental justice communities  
+at all.23 
+In part, thats because agencies dont have clear statutory authority in that realm .24 Executive 
+Orders (E.O. 12898 of February 11, 1994, and more recently E.O. 14096 of April 21, 2023) have 
+encouraged agencies to incorporate environmental justice into the NEPA process, but cannot 
+legally set enforceable standards.
+And even if those parameters and responsibilities were precisely defined, NEPA would not  
+provide an effective protection mechanism. NEPA is a technology-agnostic procedural law,  
+made to evaluate and mitigate environmental impacts. The law is not designed to stop, replace, 
+or relocate projects. Such considerations remain a matter of national policy that federal 
+lawmakers are already working to address under the Inflation Reduction Act, the Justice40 
+Initiative, and other laws. 
+Forest management projects were the most common subject of litigation.
+Despite public outcry over NEPAs impact on clean energy deployment, energy projects dont con -
+stitute the largest share of legal challenges in this dataset. Instead, the majority (37%) of total 
+NEPA challenges contested public lands management projects. 
+The U.S. Forest Service and Bureau of Land Management together manage the majority of  
+federally owned land in the United States, about 437 million acres .25 A NEPA review is required 
+whenever these agencies perform management activities, like removing dead trees or building 
+roads. This highlights a key distinction between the requirements NEPA imposes on public lands 
+management agencies and those that focus on building infrastructure. Where NEPA acts as a 
+mechanism to regulate private industry activity when permitting mines or wind farms, it also 
+governs how land management agencies execute their core, legislatively mandated responsibil -
+ities. Thus, NEPA litigation poses a unique challenge for these agencies, allowing the public to 
+contest the minutiae of their every decision.
+ ---------- NEW PAGE ---------- 
+10
+Table 5: Appeals of public lands management reviews by type of project, 20132022.
+Public lands management project type Number of cases Agency win-rate% of  total land  
+management cases
+Forest management 66 78.8% 46.5%
+Species management 38 76.3% 26.8%
+Other 20 80.0% 14.1%
+Riverlake management 12 83.3% 8.5%
+Refuge management 6 100.0% 4.2%
+Total 142 79.6%
+In this dataset, forest management projects were most often the subject of appeals (Table 5), 
+constituting 47% of land management cases and 17% of cases overall. Just 10 organizations filed 
+67% of these cases (Table 6), underscoring that NEPA litigation often originates from activism 
+efforts advanced by a small number of NGOs. Collectively, this group of organizations won only 
+23% of their cases, while adding about 3.7 years on average to the process of implementing proj -
+ects on cases they lost.
+Table 6: Top 10 organizations that filed most forest management appeals, 20132022.
+Rank Plaintiff Number of cases% of total forest  
+management cases
+1 Alliance for the Wild Rockies 15 22.4%
+2 Cascadia Wildlands 12 17.9%
+3 Oregon Wild 10 14.9%
+4 Klamath-Siskiyou Wildlands Center 8 11.9%
+5 Center for Biological Diversity 8 11.9%
+6 Native Ecosystems Council 7 10.5%
+7 Conservation Congress 5 7.5%
+8 Greenpeace 4 6.0%
+9 Earth Island Institute 4 6.0%
+10 WildEarth Guardians 3 4.5%
+ ---------- NEW PAGE ---------- 
+11
+Within the forest management category, plaintiffs challenged timber harvest and fuel manage -
+ment projects the most frequently (Table 7). Timber sales on public land have long generated 
+controversy, both inside and outside the context of NEPA. While the notion of timber harvest -
+ing often conjures images of profit-driven logging companies decimating pristine forests, land 
+management agencies can use harvests to improve wildlife habitat and reduce fire risk.26 In fact, 
+almost half of the contested timber harvesting projects in this dataset were also part of a fuel 
+management project. This finding underscores one of the most concerning challenges imposed 
+on land management agencies by NEPA: obstruction of wildfire mitigation efforts.
+Table 7: Types of forest management appeals, 20132022.
+Type Number of cases% of total forest  
+management cases
+Timber harvest 26 38.8%
+Fuel management 26 38.8%
+Roadsvehicle use 10 14.9%
+Salvage logging 5 7.5%
+Grazing 4 6.0%
+Note: Forest management cases are multifaceted and thus cannot be categorized by a single variable. This table shows the num -
+ber of cases that address various types, but each category is not mutually exclusive, so percentages total more than 100%. 
+Scientists and forest managers have made clear  that fuel reduction is the most effective way to 
+decrease wildfire risk.27 As the wildfire crisis has escalated in the United States, the need for fuel 
+reduction has only grown. Unfortunately, the Forest Service spends 3.6 to 4.7 years  on paperwork 
+before a fuel management project can start.28 NEPA allows plaintiffs to stall projects even further 
+with litigation, which can add over a year to the process.29 In this dataset, an average of three 
+years elapsed between an agencys issuing a permit for a fuel reduction project and the end of 
+litigation. Notably though, agencies won 93% of cases related to fuel reduction projects, 96% of 
+which were brought by NGOs.
+NEPA litigation added 3.9 years on average to energy project development.
+In this dataset, 29% of total NEPA appeals cases contested energy projects. The distribution of 
+contested projects shows a balance among challenges to projects involving fossil fuel infrastruc -
+ture (37%), clean energy production (33%), and fossil fuel extraction (22%) (Table 8). This balance 
+challenges the common narrative that only certain types of projects face legal opposition. 
+ ---------- NEW PAGE ---------- 
+12
+Instead, it underscores the reality that legal challenges are an inherent aspect of energy  
+development, regardless of the energy source involved. At the same time, different technologies 
+trigger NEPA compliance reviews at different rates. For example, under 10% of utility-scale  
+solar projects  built since 2010 underwent the NEPA environmental impact statement process 
+(because most solar projects are on state or private rather than federal land), compared to 100% 
+of offshore wind projects.30 The true burden of litigation relates to the rate at which projects  
+are reviewed and then contested, which was not measured in our study.
+Instead, these findings highlight the impact of NEPA litigation on energy project outcomes. 
+Litigation delayed project implementation by 3.9 years on average, despite the fact that agencies 
+won 71% of these challenges. NGOs filed 74% of energy cases, with just 10 organizations respon -
+sible for 48% of these challenges. 
+Plaintiffs rarely won cases against fossil fuel infrastructure projects (26% success rate) or clean 
+energy production projects (24%). However, challengers won cases against fossil fuel extraction 
+projects at a notably higher rate (40%). The distinction can be explained in part by the kinds of 
+groups challenging projects.
+ ---------- NEW PAGE ---------- 
+13
+Table 8:  Energy project appeals by category and project type, 20132022.
+Energy category Project type Number of cases% of total  
+energy casesAgency win-rate
+Fossil fuel infrastructure 42 37.2% 73.8%
+Oil and gas pipeline 29 25.7%
+Natural gas compressor 4 3.5%
+LNG facility 4 3.5%
+Pipeline and LNG facility 1 0.9%
+Offshore oil and gas extraction 1 0.9%
+LPG facility 1 0.9%
+Coal to natural gas plant conversion 1 0.9%
+Coal plant 1 0.9%
+Clean energy production 37 32.7% 75.7%
+Wind 12 10.6%
+Nuclear 12 10.6%
+Hydroelectric 9 8.0%
+Geothermal 3 2.7%
+Solar 1 0.9%
+Fossil fuel extraction 25 22.1% 60.0%
+Oil and gas extraction 19 16.8%
+Offshore oil and gas extraction 3 2.7%
+Coal lease 3 2.7%
+Transmission 5 4.4% 40.0%
+Regulation 3 2.7% 100.0%
+Oil spill plan 1 0.9%
+Natural gas export 1 0.9%
+Federal coal management program 1 0.9%
+ ---------- NEW PAGE ---------- 
+14
+Fossil fuel extraction projects were mostly contested by large, national NGOs. Thats because 
+the cases largely focused on oil and gas leases, which are concentrated on public land with 
+few directly impacted stakeholders. Typically, only organizations with the capacity to monitor 
+and understand the legal complexities of the fossil fuel extraction process can pursue such 
+challenges, inherently limiting the number of viable plaintiffs. Plaintiffs didnt win fossil 
+fuel extraction cases at a higher rate because of such expertise, though. The five groups most 
+involved in these cases (Table 9) had a 28% win-rate across categories, not particularly higher 
+than the average win-rate for all categories. Rather, extraction cases may be easier for challengers 
+to win, though further research is needed to confirm such dynamics.
+By contrast, fossil fuel infrastructure projects and clean energy production projects were chal -
+lenged by a combination of national and regional NGOs and were won by them at a similar rate. 
+Oil and gas pipelines run through communities in multiple states, which increases visibility 
+and the number of impacted stakeholders that can file challenges. The Sierra Club, for example, 
+partnered with Delaware Riverkeeper Network, Wild Virginia, and Appalachian Voices to file chal -
+lenges to pipelines in each organizations territory. Clean energy projects are similarly localized, 
+drawing challenges from a wide variety of national and regional organizations. While national 
+NGOs were involved in the greatest share of cases, they accounted for a smaller share (8%) than 
+in the case of fossil fuels.
+ ---------- NEW PAGE ---------- 
+15
+Table 9:  Top energy project appellants by category, 20132022.
+Energy category Plaintiff  Number of cases % of total energy cases
+Fossil fuel infrastructure Total 42 38.1%
+Sierra Club and local chapters 12 28.6%
+Delaware Riverkeeper Network 4 9.5%
+Wild Virginia 3 7.1%
+Appalachian Voices 3 7.1%
+Standing Rock Sioux Tribe 2 4.8%
+Clean energy production Total 37 32.7%
+Natural Resources Defense Council 3 8.1%
+Sierra Club and local chapters 3 8.1%
+Save Medicine Lake Coalition 2 5.4%
+Protect Our Communities Foundation 2 5.4%
+Pit River Tribe 2 5.4%
+Fossil fuel extraction Total 25 21.2%
+Sierra Club and local chapters 12 48.0%
+Center for Biological Diversity 10 40.0%
+Defenders of Wildlife 6 24.0%
+Natural Resources Defense Council 5 20.0%
+Friends of the Earth 5 20.0%
+Alaska Wilderness League 4 16.0%
+ ---------- NEW PAGE ---------- 
+16
+CONCLUSION
+Overall, this analysis sheds light on the need to reform judicial review procedures under NEPA. 
+Currently, litigation rarely produces substantial changes to environmental outcomes, instead 
+creating a platform for a narrow set of well-resourced NGOs to further their missions. This status 
+quo not only drains agency resources for challenges that are seldom successful, but pulls 
+resources from services that actually improve environmental outcomes, like forest management. 
+As Congress debates reform, its essential for policymakers to prioritize pragmatic solutions that 
+streamline the NEPA review process and empower agencies to fulfill their obligations efficiently.
+ ---------- NEW PAGE ---------- 
+17
+ENDNOTES
+1   The research dataset of NEPA judicial decisions was compiled by a team from the law firm of Holland & 
+Knight led by Jennifer Hernandez. Scott Gesundheidt, Elizabeth McCarthy, and clerks Jake Lebovic and 
+Christian Grossenbacher all worked on the compilation of information from this NEPA dataset.
+2    David E. Adelman and Robert L. Glicksman, Presidential and Judicial Politics in Environmental  
+Litigation, Arizona State Law Journal  50, no. 1 (2018), https:arizonastatelawjournal.orgwp-content
+uploads201805AdelmanPub.pdf .
+3   Jay E. Austin et al., Judging NEPA: A Hard Look at Judicial Decision Making Under the National  
+Environmental Policy Act, Environmental Law Institute , 2004, https:www.eli.orgsitesdefaultfiles  
+eli-pubsd14-12.pdf ; and Adelman and Glicksman, Presidential and Judicial Politics.
+4   2022 Annual NEPA Report , National Association of Environmental Professionals, July 2022,   
+https:naep.memberclicks.netassetsannual-reportNEPAAnnualReport2022.pdf .
+5   John Ruple and Kayla Race, Measuring the NEPA Litigation Burden: A Review of 1,499 Federal Court 
+Cases, SSRN Electronic Journal , 2019,  https:doi.org10.2139ssrn.3433437 .
+6  Adelman and Glicksman, Presidential and Judicial Politics. 
+7   Council on Environmental Quality, The National Environmental Policy Act: A Study of Its Effectiveness 
+After Twenty-Five Years , 1997, https:ceq.doe.govdocsceq-publicationsnepa25fn.pdf ; Courtney 
+Schultz et al., Prescribed Fire Policy Barriers and Opportunities, University of Oregon and Colorado 
+State University , 2018, https:www.nwfirescience.orgsitesdefaultfilespublicationsWP86.pdf ; 
+Chad Kooistra et al., Assessment of Early Implementation of the US Forest Services Shared Stewardship 
+Strategy , Colorado State University and University of Oregon, 2021, https:sites.warnercnr.colostate.edu
+courtneyschultzwp-contentuploadssites23202210PLPG-PP-10.pdf ; and Rayan Sud, Sanjay Patnaik, 
+and Robert Glicksman, How to Reform Federal Permitting to Accelerate Clean Energy Infrastructure, 
+Center on Regulation and Markets at Brookings, February 2023, https:www.brookings.eduwp-content
+uploads20230220230213CRMPatnaikPermittingFINAL.pdf .
+8   USDA Forest Service, The Process Predicament: How Statutory, Regulatory, and Administrative Factors 
+Affect National Forest Management , 2002, https:www.fs.usda.govprojects-policiesdocuments  
+Process-Predicament.pdf .
+9   Marc J. Stern and Michael J. Mortimer, Exploring National Environmental Policy Act Processes across 
+Federal Land Management Agencies , U.S. Department of Agriculture, Forest Service, Pacific Northwest 
+Research Station, 2009,  https:doi.org10.2737pnw-gtr-799 ; and Michael J. Mortimer et al.,  
+Environmental and Social Risks: Defensive National Environmental Policy Act in the US Forest Service, 
+Journal of Forestry 109, no. 1 (2011): 27-33, https:www.fs.usda.govpnwpubsjournalspnw2011
+mortimer001.pdf .
+10  Adelman and Glicksman, Presidential and Judicial Politics.
+ ---------- NEW PAGE ---------- 
+18
+11   U.S. Environmental Protection Agency, Environmental Impact Statement (EIS) Database, accessed 
+May 22, 2024,  https:cdxapps.epa.govcdx-enepa-IIpublicactioneissearch?search=&
+fsk=841901930#results .
+12  Austin et al., Judging NEPA ; and Adelman and Glicksman, Presidential and Judicial Politics.
+13  Austin et al., Judging NEPA ; and Adelman and Glicksman, Presidential and Judicial Politics.
+14  Austin et al., Judging NEPA ; and Adelman and Glicksman, Presidential and Judicial Politics.
+15  Austin et al., Judging NEPA ; and Adelman and Glicksman, Presidential and Judicial Politics.
+16  Austin et al., Judging NEPA .
+17   Sierra Club, About Our Program, accessed June 7, 2024,  https:www.sierraclub.org  
+environmental-lawabout-our-program .
+18   Center for Biological Diversity, Climate Law Institute: Saving Life on Earth,  accessed June 7, 2024, 
+https:www.biologicaldiversity.orgprogramsclimatelawinstitute .
+19   Natural Resources Defense Council, Litigation,  accessed June 7, 2024, https:www.nrdc.orgabout
+litigation .
+20   Michael Bennon and Devon Wilson, NEPA Litigation over Large Energy and Transport Infrastructure 
+Projects, Environmental Law Reporter , last revised September 28, 2023, https:papers.ssrn.comsol3
+papers.cfm?abstractid=4498938 .
+21   Merkley, Colleagues Highlight Environmental Justice Concerns on Permitting Legislation, Need for  
+Standalone Floor Consideration, Jeff Merkley, Senator for Oregon  (blog), September 22, 2022,   
+https:www.merkley.senate.govmerkley-colleagues-highlight-environmental-justice-concerns-on-permit -
+ting-legislation-need-for-standalone-floor-consideration .
+22   House Republican Bill Would Upend Bedrock Environmental Review Law, Center for Biological Diversity, 
+February 27, 2023,  https:biologicaldiversity.orgwnewspress-releaseshouse-republican-bill-would- 
+upend-bedrock-environmental-review-law-2023-02-27 .
+23    Nina M. Hart and Linda Tsang, Addressing Environmental Justice through NEPA, Legal Sidebar,  
+Congressional Research Service, updated September 21, 2021, https:crsreports.congress.govprod -
+uctpdfLSBLSB10590 .
+24   Hannah Perls, President Biden Issues Long-Awaited Update to Clinton-Era Environmental Justice Executive 
+Order, Harvard Law School Environmental & Energy Law Program, August 3, 2023, https:eelp.law.
+harvard.eduwp-contentuploadsHPerlsEJ-EO-AnalysisFINAL-8.2.23.pdf .
+25   Katie Hoover et al., The Federal Land Management Agencies, Congressional Research Service, updated 
+February 16, 2021, https:sgp.fas.orgcrsmiscIF10585.pdf .
+26   36 C.F.R.  219.11: Timber Requirements Based on the NFMA, Cornell Law School, Legal Information 
+Institute, accessed June 7, 2024, https:www.law.cornell.educfrtext36219.11 .
+ ---------- NEW PAGE ---------- 
+19
+27    Patrick T. Brown et al., The Potential for Fuel Reduction to Offset Climate Warming Impacts on Wildfire 
+Intensity in California (preprint), Earth ArXiv, February 21, 2024, https:doi.org10.31223X5BT49 .
+28  Eric Edwards and Sara Sutherland, Does Environmental Review Worsen the Wildfire Crisis?, PERC,  
+June 14, 2022,  https:perc.org20220614does-environmental-review-worsen-the-wildfire-crisis .
+29 Edwards and Sutherland, Does Environmental Review Worsen the Wildfire Crisis?
+30  Arthur G. Fraas, Speeding Up Solar Projects: Siting Review under the National Environmental Policy Act, 
+Resources for the Future, March 12, 2024,  https:www.resources.orgcommon-resourcesspeeding-up-so -
+lar-projects-siting-review-under-the-national-environmental-policy-act .
+ ---------- NEW PAGE ---------- 
+THE BREAKTHROUGH INSTITUTE
+BERKELEY, CA 94704  
+WWW.THEBREAKTHROUGH.ORG
+TWITTER:@TheBTI
+ ---------- NEW PAGE ---------- 

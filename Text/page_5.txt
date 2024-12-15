@@ -1,0 +1,30 @@
+5
+Understanding that NEPA and the threat of litigation impose a sizable burden on agencies, this 
+analysis shifts the question of burden away from scale and instead toward outcomes. Our study 
+analyzed 387 NEPA cases filed at District Court and then appealed to a Circuit Courtin effect, 
+the cases most burdened by NEPA litigationbetween 2013 and 2022. 
+Our findings suggest that NEPA litigation at this level rarely changes environmental outcomes 
+or protects environmental justice communities. Instead, judicial review of NEPA decisions largely 
+serves as an advocacy tool for a small number of well-organized nonprofits to stall projects that 
+do not align with their values.
+The burden of NEPA litigation has increased while its impact on environmental outcomes  
+has decreased.
+Between 2013 and 2022, Circuit Courts heard approximately 39 NEPA appeals cases per year, a 
+56% increase over the average annual rate from 2001 to 2015 .10 By contrast, the number of final 
+environmental impact statements (FEISs) in the same time periods dropped. Between 2001 and 
+2015, 210 FEISs were published on average per year in the EPA's EIS database , while 132 were pub -
+lished between 2013 and 2022.11 While EISs represent a small share of environmental documents 
+produced, they attracted the most litigation, comprising 42% of the challenges in our dataset. 
+Thus, both the sheer number of legal challenges filed and the rate at which EISs faced challenges 
+at the appellate level increased in the most recent decade.
+Agencies won about 80% of the appeals from 2013 to 2022, 11% more per year than from 2001 to 
+2004 , 8% more than from 2001 to 2008,  and 4% less than from 2009 to 2015 .12 The rate at which  
+agencies reviews are upheld is high, meaning these environmental reviews are seldom changed 
+as a result of litigation.
+On average, 4.2 years elapsed between when an environmental review was published and 
+a legal challenge at the appellate level was settled.
+Under current procedure, challengers can contest NEPA-related decisions for up to six years 
+following publication under the Administrative Procedures Act. Appeals, however, are not time-
+bound in the same way. Still, 84% of appealed cases in the last decade were closed less than six 
+years after the contested permit was published, and 39% were closed in less than three years. 
+Length of time to resolution varied by project category (Table 1). 

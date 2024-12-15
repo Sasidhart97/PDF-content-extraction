@@ -1,0 +1,33 @@
+9
+NEPA litigation has rarely focused on environmental justice.
+Environmental nonprofits and decision-makers  alike have vocally highlighted the perceived 
+threat NEPA reform would impose on marginalized communities.21 The Center for Biological 
+Diversity even accused a member of Congress of  trying to silence communities of color and 
+poor communities in places like Louisianas Cancer Alley, 22 after proposing a bill that would 
+reduce the amount of time in which an environmental review can be challenged. However,  
+a meager 2.8% of challenges in our 2013-2022 dataset related to environmental justice issues.  
+In fact, NEPA has never played a large role  in protecting environmental justice communities  
+at all.23 
+In part, thats because agencies dont have clear statutory authority in that realm .24 Executive 
+Orders (E.O. 12898 of February 11, 1994, and more recently E.O. 14096 of April 21, 2023) have 
+encouraged agencies to incorporate environmental justice into the NEPA process, but cannot 
+legally set enforceable standards.
+And even if those parameters and responsibilities were precisely defined, NEPA would not  
+provide an effective protection mechanism. NEPA is a technology-agnostic procedural law,  
+made to evaluate and mitigate environmental impacts. The law is not designed to stop, replace, 
+or relocate projects. Such considerations remain a matter of national policy that federal 
+lawmakers are already working to address under the Inflation Reduction Act, the Justice40 
+Initiative, and other laws. 
+Forest management projects were the most common subject of litigation.
+Despite public outcry over NEPAs impact on clean energy deployment, energy projects dont con -
+stitute the largest share of legal challenges in this dataset. Instead, the majority (37%) of total 
+NEPA challenges contested public lands management projects. 
+The U.S. Forest Service and Bureau of Land Management together manage the majority of  
+federally owned land in the United States, about 437 million acres .25 A NEPA review is required 
+whenever these agencies perform management activities, like removing dead trees or building 
+roads. This highlights a key distinction between the requirements NEPA imposes on public lands 
+management agencies and those that focus on building infrastructure. Where NEPA acts as a 
+mechanism to regulate private industry activity when permitting mines or wind farms, it also 
+governs how land management agencies execute their core, legislatively mandated responsibil -
+ities. Thus, NEPA litigation poses a unique challenge for these agencies, allowing the public to 
+contest the minutiae of their every decision.
