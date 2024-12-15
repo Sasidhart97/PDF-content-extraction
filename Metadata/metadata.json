@@ -1,0 +1,127 @@
+{
+    "PDF_Name": "Understanding-NEPA-Litigation_v4.pdf",
+    "Page_Count": 20,
+    "Page 15": {
+        "Text": "page_15.txt",
+        "Tables": [
+            "page_15_table_9.csv"
+        ],
+        "Images": []
+    },
+    "Page 4": {
+        "Text": "page_4.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 16": {
+        "Text": "page_16.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 20": {
+        "Text": "page_20.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 12": {
+        "Text": "page_12.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 19": {
+        "Text": "page_19.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 7": {
+        "Text": "page_7.txt",
+        "Tables": [
+            "page_7_table_3.csv"
+        ],
+        "Images": []
+    },
+    "Page 9": {
+        "Text": "page_9.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 11": {
+        "Text": "page_11.txt",
+        "Tables": [
+            "page_11_table_7.csv"
+        ],
+        "Images": []
+    },
+    "Page 13": {
+        "Text": "page_13.txt",
+        "Tables": [
+            "page_13_table_8.csv"
+        ],
+        "Images": []
+    },
+    "Page 14": {
+        "Text": "page_14.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 6": {
+        "Text": "page_6.txt",
+        "Tables": [
+            "page_6_table_2.csv",
+            "page_6_table_1.csv"
+        ],
+        "Images": []
+    },
+    "Page 10": {
+        "Text": "page_10.txt",
+        "Tables": [
+            "page_10_table_6.csv",
+            "page_10_table_5.csv"
+        ],
+        "Images": []
+    },
+    "Page 2": {
+        "Text": "page_2.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 3": {
+        "Text": "page_3.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 8": {
+        "Text": "page_8.txt",
+        "Tables": [
+            "page_8_table_4.csv"
+        ],
+        "Images": []
+    },
+    "Page 18": {
+        "Text": "page_18.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 17": {
+        "Text": "page_17.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 5": {
+        "Text": "page_5.txt",
+        "Tables": [],
+        "Images": []
+    },
+    "Page 1": {
+        "Text": "page_1.txt",
+        "Tables": [],
+        "Images": [
+            "page_1_img3.jpeg",
+            "page_1_img5.jpeg",
+            "page_1_img2.jpeg",
+            "page_1_img4.jpeg",
+            "page_1_img6.jpeg",
+            "page_1_img1.jpeg"
+        ]
+    }
+}
